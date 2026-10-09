@@ -1,2 +1,2 @@
 # kundjuru-pdv-app
-Aplicativo d eponto de venda.
+Aplicativo de ponto de venda.
